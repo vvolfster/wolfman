@@ -1,0 +1,5 @@
+{
+    "plugins": [
+        ["react-directives", { "prefix": "x", "pragmaType": "React" }]
+    ]
+}

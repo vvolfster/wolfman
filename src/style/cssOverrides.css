@@ -1,0 +1,32 @@
+svg.ct-chart-bar,
+svg.ct-chart-line {
+    overflow: visible;
+}
+
+/* style the svg rect */
+.ct-zoom-rect {
+    fill: rgba(200, 100, 100, 0.3);
+    stroke: red;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+::-webkit-scrollbar-thumb {
+    background: #006cd0;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+    display: "none";
+}
+
+/* hides useless buttons on google map */
+.gm-style-cc {
+    display: none;
+}
+
+.swal2-container {
+    z-index: 999 !important;
+}

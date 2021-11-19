@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "storytime-dca39"
+  },
+  "targets": {
+    "storytime-dca39": {
+      "hosting": {
+        "wolfman": [
+          "wolfman"
+        ]
+      }
+    }
+  }
+}
